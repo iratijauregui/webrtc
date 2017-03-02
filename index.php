@@ -1,1 +1,1 @@
-<?php header( 'Location: /2-api-rtcpeerconnection/index.html' ) ;  ?>
+<?php header( 'Location: /4-simplewebrtc/index.html' ) ;  ?>
