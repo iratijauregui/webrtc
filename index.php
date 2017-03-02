@@ -1,1 +1,1 @@
-<?php header( 'Location: /1-api-mediastrem/index.html' ) ;  ?>
+<?php header( 'Location: /2-api-rtcpeerconnection/index.html' ) ;  ?>
