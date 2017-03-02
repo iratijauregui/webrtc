@@ -1,1 +1,1 @@
-<?php header( 'Location: /4-simplewebrtc/index.html' ) ;  ?>
+<?php header( 'Location: /5-simplewebrtc-signaling/index.html' ) ;  ?>
